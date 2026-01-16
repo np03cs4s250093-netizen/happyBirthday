@@ -8,17 +8,17 @@ interface OurMemoriesProps {
 
 const memories = [
   { id: 1, image: "/usStarting.jpg" },
-  { id: 2, image: "/img7.JPG" },
-  { id: 3, image: "/img6.JPG" },
-  { id: 4, image: "/img5.JPG" },
-  { id: 5, image: "/img4.JPG" },
-  { id: 6, image: "/img3.JPG" },
-  { id: 7, image: "/img2.JPG" },
-  { id: 8, image: "/img1.JPG" },
+  { id: 2, image: "/img7.jpg" },
+  { id: 3, image: "/img6.jpg" },
+  { id: 4, image: "/img5.jpg" },
+  { id: 5, image: "/img4.jpg" },
+  { id: 6, image: "/img3.jpg" },
+  { id: 7, image: "/img2.jpg" },
+  { id: 8, image: "/img1.jpg" },
   { id: 9, image: "/img.JPG" },
-  { id: 10, image: "/walking_street.JPG" },
-  { id: 11, image: "/walking_streets.JPG" },
-  { id: 12, image: "/pakh_sapana.PNG" },
+  { id: 10, image: "/walking_street.jpg" },
+  { id: 11, image: "/walking_streets.jpg" },
+  { id: 12, image: "/pakh_sapana.png" },
 ]
 
 const photoPositions = [
