@@ -15,7 +15,7 @@ const memories = [
   { id: 6, image: "/img3.jpg" },
   { id: 7, image: "/img2.jpg" },
   { id: 8, image: "/img1.jpg" },
-  { id: 9, image: "/img.JPG" },
+  { id: 9, image: "/img.jpg" },
   { id: 10, image: "/walking_street.jpg" },
   { id: 11, image: "/walking_streets.jpg" },
   { id: 12, image: "/pakh_sapana.png" },
