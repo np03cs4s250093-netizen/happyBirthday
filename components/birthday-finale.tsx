@@ -5,14 +5,14 @@ import { saveWish } from "@/app/actions/save-wish"
 import TouchGuide from "@/components/touch-guide"
 
 const memoryPhotos = [
-  "/img.jpg",
+  "/img3.jpg",
+  "/img1.jpg",
+  "/img2.jpg",
   "/img1.JPG",
-  "/img2.JPG",
-  "/img3.JPG",
-  "/img4.JPG",
-  "/img5.JPG",
-  "/img6.JPG",
-  "/img7.JPG",
+  "/img4.jpg",
+  "/img5.jpg",
+  "/img6.jpg",
+  "/img7.jpg",
 ]
 
 export default function BirthdayFinale() {
