@@ -8,7 +8,7 @@ const memoryPhotos = [
   "/img3.jpg",
   "/img1.jpg",
   "/img2.jpg",
-  "/img1.JPG",
+  "/img.JPG",
   "/img4.jpg",
   "/img5.jpg",
   "/img6.jpg",
